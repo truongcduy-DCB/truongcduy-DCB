@@ -13,7 +13,7 @@
   <br />
 ## 📫 How to reach me:
 <p align="center">
-  <a href="www.linkedin.com/in/duy-trương-công-947261381" target="_blank">
+  <a href="https://www.linkedin.com/in/truongcduy-dcb/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/truong.duy.48730" alt="Facebook">
