@@ -2,6 +2,7 @@
 I'm a passionate software developer who loves building efficient and user-friendly applications.
   - 🌱 I’m currently studying at Industrial University of HoChiMinh City
   - 💬Feel free to contact me via Facebook, Discord, Tiktok.....
+  - Reach me at [Gmail](truong.cduy0801@gmail.com)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/truong.duy.48730) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@truogc.duy0801?_t=ZS-8zHGMw62ZSi&_r=1) 
