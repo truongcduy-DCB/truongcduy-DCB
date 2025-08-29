@@ -1,3 +1,6 @@
+# Hi there! I'm Trương Công Duy
+I'm a passionate software developer who loves building efficient and user-friendly applications.
+ 
 # 💫About Me :
 I'm a passionate software developer who loves building efficient and user-friendly applications.
   - 🌱 I’m currently studying at Industrial University of HoChiMinh City.
